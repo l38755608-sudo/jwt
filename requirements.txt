@@ -4,4 +4,7 @@ requests==2.31.0
 pycryptodome==3.19.0
 colorama==0.4.6
 protobuf==4.24.4
+psutil
+platform
+socket
 PyJWT==2.8.0
